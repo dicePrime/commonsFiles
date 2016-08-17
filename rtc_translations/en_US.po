@@ -1,0 +1,1566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tevolution-Classified\n"
+"POT-Creation-Date: 2016-03-31 14:46+0530\n"
+"PO-Revision-Date: 2016-03-31 14:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: Templatic <testtemplatic@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bundle_box.php:20
+msgid "Tevolution Classifieds"
+msgstr ""
+
+#: bundle_box.php:24
+msgid ""
+"An classifieds module that will let you add, sort and manage your properties "
+"easily and effectively. By management, we mean you can do excerpt settings, "
+"decide the publishing status on property addition, fire e-mail notification "
+"to user on event expiry, sort the listings as per the locations and their "
+"near by locations too. Show and share your listings using your social "
+"accounts from your website itself and many more."
+msgstr ""
+
+#: bundle_box.php:29
+msgid "Activate &rarr;"
+msgstr ""
+
+#: bundle_box.php:34
+msgid "Deactivate "
+msgstr ""
+
+#: bundle_box.php:35
+msgid "Settings"
+msgstr ""
+
+#: classifieds.php:70
+msgid "Footer Right"
+msgstr ""
+
+#: classifieds.php:136
+msgid ""
+"You have not activated the base plug in <b>Tevolution</b>. Please activate "
+"it to use Tevolution-Classifieds plug in."
+msgstr ""
+
+#: classifieds/classified.php:8 classifieds/classified.php:9
+msgid "Classifieds"
+msgstr ""
+
+#: classifieds/classified.php:10
+msgid "Classified"
+msgstr ""
+
+#: classifieds/classified.php:11 classifieds/classified.php:12
+msgid "Add Classified"
+msgstr ""
+
+#: classifieds/classified.php:13
+msgid "Edit"
+msgstr ""
+
+#: classifieds/classified.php:14
+msgid "Edit Classified"
+msgstr ""
+
+#: classifieds/classified.php:15
+msgid "New Classified"
+msgstr ""
+
+#: classifieds/classified.php:16
+msgid "View Classified"
+msgstr ""
+
+#: classifieds/classified.php:17
+msgid "Search Classified"
+msgstr ""
+
+#: classifieds/classified.php:18
+msgid "No Classified found"
+msgstr ""
+
+#: classifieds/classified.php:19
+msgid "No Classified found in trash"
+msgstr ""
+
+#: classifieds/classified.php:20 classifieds/classified.php:21
+#: classifieds/classified.php:22
+msgid "Classified Categories"
+msgstr ""
+
+#: classifieds/classified.php:23
+msgid "Search category"
+msgstr ""
+
+#: classifieds/classified.php:24
+msgid "Popular categories"
+msgstr ""
+
+#: classifieds/classified.php:25
+msgid "All categories"
+msgstr ""
+
+#: classifieds/classified.php:26
+msgid "Parent category"
+msgstr ""
+
+#: classifieds/classified.php:27
+msgid "Parent category:"
+msgstr ""
+
+#: classifieds/classified.php:28
+msgid "Edit category"
+msgstr ""
+
+#: classifieds/classified.php:29
+msgid "Update category"
+msgstr ""
+
+#: classifieds/classified.php:30
+msgid "Add new category"
+msgstr ""
+
+#: classifieds/classified.php:31
+msgid "New category name"
+msgstr ""
+
+#: classifieds/classified.php:32 classifieds/classified.php:33
+#: classifieds/classified.php:34
+msgid "Classified Tags"
+msgstr ""
+
+#: classifieds/classified.php:35
+msgid "Popular Classified tags"
+msgstr ""
+
+#: classifieds/classified.php:36
+msgid "All Classified tags"
+msgstr ""
+
+#: classifieds/classified.php:37
+msgid "Parent Classified tags"
+msgstr ""
+
+#: classifieds/classified.php:38
+msgid "Parent Classified tags:"
+msgstr ""
+
+#: classifieds/classified.php:39
+msgid "Edit Classified tags"
+msgstr ""
+
+#: classifieds/classified.php:40
+msgid "Update Classified tags"
+msgstr ""
+
+#: classifieds/classified.php:41
+msgid "Add new Classified tags"
+msgstr ""
+
+#: classifieds/classified.php:42
+msgid "New Classified tag name"
+msgstr ""
+
+#: classifieds/classified.php:44
+msgid "Classified Custom Information"
+msgstr ""
+
+#: classifieds/classified.php:45
+msgid "Custom Information"
+msgstr ""
+
+#: classifieds/classified.php:46 functions/classifieds_functions.php:76
+#: functions/widgets.php:71 functions/widgets.php:1513
+#: google-maps/direction_map_widget.php:58 google-maps/widgets.php:148
+#: google-maps/widgets.php:715 google-maps/widgets.php:1233
+msgid "Title"
+msgstr ""
+
+#: classifieds/classified.php:47
+msgid "Classified type"
+msgstr ""
+
+#: classifieds/classified.php:48
+msgid "Address"
+msgstr ""
+
+#: classifieds/classified.php:49
+#: classifieds/classified_auto_install_xml.php:1380
+#: classifieds/classified_auto_install_xml.php:1450 functions/widgets.php:316
+#: google-maps/google_maps.php:1124
+msgid "Categories"
+msgstr ""
+
+#: classifieds/classified.php:50
+msgid "Tags"
+msgstr ""
+
+#: classifieds/classified.php:52
+msgid "are you going to attend"
+msgstr ""
+
+#: classifieds/classified.php:53
+msgid "You are going to attend"
+msgstr ""
+
+#: classifieds/classified.php:54
+msgid "Yes, I am"
+msgstr ""
+
+#: classifieds/classified.php:55
+msgid "Not attending now."
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:40
+#: classifieds/classified_auto_install_xml.php:70
+#: classifieds/classified_auto_install_xml.php:78
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:41
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:82
+#: classifieds/classified_auto_install_xml.php:87
+#: classifieds/classified_auto_install_xml.php:277
+#: classifieds/classified_auto_install_xml.php:466
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:763
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:777
+msgid "Import author:"
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:786
+msgid "or create new user with login name:"
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:789
+msgid "as a new user:"
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:796
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:798
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:799
+msgid "- Select -"
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:840
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:1134
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:1192
+msgid "Invalid file type"
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:1477
+msgid "Seller Details"
+msgstr ""
+
+#: classifieds/classified_auto_install_xml.php:1551
+msgid "Sample Data has been inserted."
+msgstr ""
+
+#: classifieds/install.php:29
+msgid ""
+"You have no classified post type now but your classified-manager is in "
+"active status so you can generate classified post type again. "
+msgstr ""
+
+#: classifieds/install.php:30
+msgid "Generate Classifieds Taxonomy"
+msgstr ""
+
+#: classifieds/install.php:1854
+msgid "Install sample data"
+msgstr ""
+
+#: classifieds/install.php:1856
+msgid "Wish to insert classified sample data?"
+msgstr ""
+
+#: classifieds/install.php:1859
+msgid "Installation Guide"
+msgstr ""
+
+#: functions/admin_functions.php:56
+msgid "Set the title and colours for classified status tags"
+msgstr ""
+
+#: functions/admin_functions.php:83
+msgid "Classified tag eg.Hot"
+msgstr ""
+
+#: functions/admin_functions.php:99
+msgid "Color e.g. #B0DE88"
+msgstr ""
+
+#: functions/admin_functions.php:115
+#, php-format
+msgid ""
+"All the tags you have added in your classified Status custom field are shown "
+"here, you can add more tags by %s editing that field %s."
+msgstr ""
+
+#: functions/admin_functions.php:139
+msgid "(Sample csv file)"
+msgstr ""
+
+#: functions/admin_functions.php:148
+msgid "Price High to Low (Only for classifieds post type)"
+msgstr ""
+
+#: functions/admin_functions.php:149
+msgid "Price Low to High (Only for classifieds post type)"
+msgstr ""
+
+#: functions/classifieds_filters_functions.php:181
+#: functions/classifieds_functions.php:420
+#: functions/classifieds_functions.php:2210 google-maps/google_maps.php:609
+#: google-maps/google_maps.php:994 google-maps/map_functions.php:148
+msgid "review"
+msgstr ""
+
+#: functions/classifieds_filters_functions.php:181
+#: functions/classifieds_functions.php:420
+#: functions/classifieds_functions.php:2210 google-maps/google_maps.php:609
+#: google-maps/google_maps.php:994 google-maps/map_functions.php:148
+msgid "reviews"
+msgstr ""
+
+#: functions/classifieds_filters_functions.php:347
+#: functions/classifieds_functions.php:1968
+#: templates/archive-classified.php:125 templates/mobile-classified.php:140
+#: templates/taxonomy-classifiedscategory.php:131
+#: templates/taxonomy-classifiedstags.php:128
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: functions/classifieds_filters_functions.php:366
+#: functions/classifieds_functions.php:1957
+msgid "Previous"
+msgstr ""
+
+#: functions/classifieds_filters_functions.php:367
+#: functions/classifieds_functions.php:1958
+msgid "Next"
+msgstr ""
+
+#: functions/classifieds_filters_functions.php:576
+msgid "Clear All Filters"
+msgstr ""
+
+#: functions/classifieds_functions.php:38
+msgid "Sort by"
+msgstr ""
+
+#: functions/classifieds_functions.php:103
+msgid "Date"
+msgstr ""
+
+#: functions/classifieds_functions.php:132 functions/widgets.php:185
+msgid "Price"
+msgstr ""
+
+#: functions/classifieds_functions.php:183
+#: functions/classifieds_functions.php:185
+#: functions/classifieds_functions.php:187
+msgid "By"
+msgstr ""
+
+#: functions/classifieds_functions.php:199
+#: templates/entry-mobile-classified.php:46 templates/mobile-classified.php:114
+msgid "In"
+msgstr ""
+
+#: functions/classifieds_functions.php:209
+msgid "classified Information"
+msgstr ""
+
+#: functions/classifieds_functions.php:226
+#: functions/classifieds_functions.php:1092 functions/widgets.php:266
+#: functions/widgets.php:315
+msgid "Country"
+msgstr ""
+
+#: functions/classifieds_functions.php:231
+#: functions/classifieds_functions.php:1097 functions/widgets.php:230
+#: functions/widgets.php:280
+msgid "State"
+msgstr ""
+
+#: functions/classifieds_functions.php:236
+#: functions/classifieds_functions.php:1102 functions/widgets.php:206
+#: functions/widgets.php:245 functions/widgets.php:295
+#: functions/widgets.php:313
+msgid "City"
+msgstr ""
+
+#: functions/classifieds_functions.php:389 functions/widgets.php:1797
+msgid "Featured"
+msgstr ""
+
+#: functions/classifieds_functions.php:651
+msgid "Price low to high"
+msgstr ""
+
+#: functions/classifieds_functions.php:661
+msgid "Price high to low"
+msgstr ""
+
+#: functions/classifieds_functions.php:917
+msgid "Upload Images"
+msgstr ""
+
+#: functions/classifieds_functions.php:976
+msgid "Viewing"
+msgstr ""
+
+#: functions/classifieds_functions.php:978
+msgid "views"
+msgstr ""
+
+#: functions/classifieds_functions.php:987
+msgid "Review"
+msgstr ""
+
+#: functions/classifieds_functions.php:987 templates/single-classified.php:181
+#: templates/single-classified.php:251
+msgid "Reviews"
+msgstr ""
+
+#: functions/classifieds_functions.php:1017
+msgid "Categories: "
+msgstr ""
+
+#: functions/classifieds_functions.php:1141
+#: functions/classifieds_functions.php:1148
+msgid "Listed On"
+msgstr ""
+
+#: functions/classifieds_functions.php:1207
+#: functions/popup_contact_seller_frm.php:15
+msgid "Contact Seller"
+msgstr ""
+
+#: functions/classifieds_functions.php:1429
+#, php-format
+msgid "Categories: %s"
+msgstr ""
+
+#: functions/classifieds_functions.php:1547
+msgid "Listing Information"
+msgstr ""
+
+#: functions/classifieds_functions.php:1649
+msgid "Price (In "
+msgstr ""
+
+#: functions/classifieds_functions.php:1759
+msgid ""
+"<p>Dear [#to_name#],</p><p>You have an inquiry message. Here are the "
+"details</p><p>Link : <b>[#post_link#]</b> </p><p> Name: [#user_name#] </p> "
+"<p> Email: [#user_email#] </p> <p> Message: [#user_message#] </p>"
+msgstr ""
+
+#: functions/classifieds_functions.php:1776
+msgid "Email sent successfully"
+msgstr ""
+
+#: functions/popup_contact_seller_frm.php:19
+msgid "Name"
+msgstr ""
+
+#: functions/popup_contact_seller_frm.php:21
+#: templates/mobile-single-classified.php:107
+msgid "Email"
+msgstr ""
+
+#: functions/popup_contact_seller_frm.php:23
+msgid "Subject"
+msgstr ""
+
+#: functions/popup_contact_seller_frm.php:23
+msgid "Seller Contact"
+msgstr ""
+
+#: functions/popup_contact_seller_frm.php:25
+msgid "Message"
+msgstr ""
+
+#: functions/popup_contact_seller_frm.php:27
+msgid ""
+"Hello, I would like to inquire more about this listing. Please let me know "
+"how can I get in touch with you. Waiting for your prompt reply?"
+msgstr ""
+
+#: functions/popup_contact_seller_frm.php:41
+msgid "Send"
+msgstr ""
+
+#: functions/popup_contact_seller_frm.php:116
+msgid "Please enter your full name"
+msgstr ""
+
+#: functions/popup_contact_seller_frm.php:149
+msgid "Please enter your valid email address"
+msgstr ""
+
+#: functions/popup_contact_seller_frm.php:166
+msgid "Please enter subject line"
+msgstr ""
+
+#: functions/popup_contact_seller_frm.php:183
+msgid "Please enter message"
+msgstr ""
+
+#: functions/widgets.php:39
+msgid "Related Classifeids for detail page sidebar."
+msgstr ""
+
+#: functions/widgets.php:40
+msgid "T &rarr; Similar Classifeids"
+msgstr ""
+
+#: functions/widgets.php:68
+msgid "Classified Search"
+msgstr ""
+
+#: functions/widgets.php:86
+msgid "Search Classified by filter"
+msgstr ""
+
+#: functions/widgets.php:87
+msgid "T &rarr; Classified Filters"
+msgstr ""
+
+#: functions/widgets.php:200
+msgid "Location"
+msgstr ""
+
+#: functions/widgets.php:207 functions/widgets.php:246
+#: functions/widgets.php:296 functions/widgets.php:963
+msgid "All Cities"
+msgstr ""
+
+#: functions/widgets.php:231 functions/widgets.php:281
+#: functions/widgets.php:498 functions/widgets.php:964
+msgid "All Regions"
+msgstr ""
+
+#: functions/widgets.php:267 functions/widgets.php:965
+msgid "Select Country"
+msgstr ""
+
+#: functions/widgets.php:314
+msgid "Region"
+msgstr ""
+
+#: functions/widgets.php:322 functions/widgets.php:347
+msgid "Classified Type"
+msgstr ""
+
+#: functions/widgets.php:348 functions/widgets.php:1183
+msgid "Select Classified Type"
+msgstr ""
+
+#: functions/widgets.php:364
+msgid "No Category available."
+msgstr ""
+
+#: functions/widgets.php:379 functions/widgets.php:401
+msgid "Price Type"
+msgstr ""
+
+#: functions/widgets.php:423 functions/widgets.php:438
+msgid "Classified Status"
+msgstr ""
+
+#: functions/widgets.php:587
+msgid "All"
+msgstr ""
+
+#: functions/widgets.php:588
+msgid "A"
+msgstr ""
+
+#: functions/widgets.php:589
+msgid "B"
+msgstr ""
+
+#: functions/widgets.php:590
+msgid "C"
+msgstr ""
+
+#: functions/widgets.php:591
+msgid "D"
+msgstr ""
+
+#: functions/widgets.php:592
+msgid "E"
+msgstr ""
+
+#: functions/widgets.php:593
+msgid "F"
+msgstr ""
+
+#: functions/widgets.php:594
+msgid "G"
+msgstr ""
+
+#: functions/widgets.php:595
+msgid "H"
+msgstr ""
+
+#: functions/widgets.php:596
+msgid "I"
+msgstr ""
+
+#: functions/widgets.php:597
+msgid "J"
+msgstr ""
+
+#: functions/widgets.php:598
+msgid "K"
+msgstr ""
+
+#: functions/widgets.php:599
+msgid "L"
+msgstr ""
+
+#: functions/widgets.php:600
+msgid "M"
+msgstr ""
+
+#: functions/widgets.php:601
+msgid "N"
+msgstr ""
+
+#: functions/widgets.php:602
+msgid "O"
+msgstr ""
+
+#: functions/widgets.php:603
+msgid "P"
+msgstr ""
+
+#: functions/widgets.php:604
+msgid "Q"
+msgstr ""
+
+#: functions/widgets.php:605
+msgid "R"
+msgstr ""
+
+#: functions/widgets.php:606
+msgid "S"
+msgstr ""
+
+#: functions/widgets.php:607
+msgid "T"
+msgstr ""
+
+#: functions/widgets.php:608
+msgid "U"
+msgstr ""
+
+#: functions/widgets.php:609
+msgid "V"
+msgstr ""
+
+#: functions/widgets.php:610
+msgid "W"
+msgstr ""
+
+#: functions/widgets.php:611
+msgid "X"
+msgstr ""
+
+#: functions/widgets.php:612
+msgid "Y"
+msgstr ""
+
+#: functions/widgets.php:613
+msgid "Z"
+msgstr ""
+
+#: functions/widgets.php:828
+msgid "Price Range"
+msgstr ""
+
+#: functions/widgets.php:1178
+msgid "Select City"
+msgstr ""
+
+#: functions/widgets.php:1330
+msgid "Find Classified"
+msgstr ""
+
+#: functions/widgets.php:1335 google-maps/widgets.php:481
+msgid "Title:"
+msgstr ""
+
+#: functions/widgets.php:1339
+msgid "Price Range:"
+msgstr ""
+
+#: functions/widgets.php:1362
+msgid "Display the seller details on classified detail page sidebar."
+msgstr ""
+
+#: functions/widgets.php:1363
+msgid "T &rarr; Classified&lsquo;s Seller Detail"
+msgstr ""
+
+#: functions/widgets.php:1452
+msgid "Joined On"
+msgstr ""
+
+#: functions/widgets.php:1454
+msgid "Owner Listings"
+msgstr ""
+
+#: functions/widgets.php:1463
+msgid "facebook"
+msgstr ""
+
+#: functions/widgets.php:1467
+msgid "twitter"
+msgstr ""
+
+#: functions/widgets.php:1471
+msgid "google"
+msgstr ""
+
+#: functions/widgets.php:1480
+msgid "Agent Description"
+msgstr ""
+
+#: functions/widgets.php:1487
+msgid "Visit seller&lsquo;s website"
+msgstr ""
+
+#: functions/widgets.php:1510
+msgid "About the seller"
+msgstr ""
+
+#: functions/widgets.php:1529
+msgid "T &rarr; Popular Advertisements"
+msgstr ""
+
+#: functions/widgets.php:1530
+msgid ""
+"Display images from a specific category or a collection of static images. "
+"The widget works best in above home page content area."
+msgstr ""
+
+#: functions/widgets.php:1875
+msgid "Slider Title"
+msgstr ""
+
+#: functions/widgets.php:1882
+msgid "Slider Description"
+msgstr ""
+
+#: functions/widgets.php:1889
+msgid "Slide show"
+msgstr ""
+
+#: functions/widgets.php:1895
+msgid "Yes"
+msgstr ""
+
+#: functions/widgets.php:1900
+msgid "No"
+msgstr ""
+
+#: functions/widgets.php:1907
+msgid "Sliding Direction"
+msgstr ""
+
+#: functions/widgets.php:1913
+msgid "Horizontal"
+msgstr ""
+
+#: functions/widgets.php:1918
+msgid "Vertical"
+msgstr ""
+
+#: functions/widgets.php:1925
+msgid "Reverse Animation Direction"
+msgstr ""
+
+#: functions/widgets.php:1931
+msgid "False"
+msgstr ""
+
+#: functions/widgets.php:1936
+msgid "True"
+msgstr ""
+
+#: functions/widgets.php:1943
+msgid "Slide Show Speed"
+msgstr ""
+
+#: functions/widgets.php:1950
+msgid "Animation Speed"
+msgstr ""
+
+#: functions/widgets.php:1959
+msgid "Item Width"
+msgstr ""
+
+#: functions/widgets.php:1959
+msgid ""
+"(Box-model width of individual items, including horizontal borders and "
+"padding.)"
+msgstr ""
+
+#: functions/widgets.php:1965
+msgid "Min Item"
+msgstr ""
+
+#: functions/widgets.php:1965
+msgid ""
+"(Minimum number of items that should be visible. Items will resize fluidly "
+"when below this.)"
+msgstr ""
+
+#: functions/widgets.php:1971
+msgid "Max Item"
+msgstr ""
+
+#: functions/widgets.php:1971
+msgid ""
+"(Maximum number of items that should be visible. Items will resize fluidly "
+"when above this limit.)"
+msgstr ""
+
+#: functions/widgets.php:1977
+msgid "Items Move"
+msgstr ""
+
+#: functions/widgets.php:1977
+msgid ""
+"(Number of items that should move on animation. If 0, slider will move all "
+"visible items.)"
+msgstr ""
+
+#: functions/widgets.php:1985
+msgid "Posts Per Slide"
+msgstr ""
+
+#: functions/widgets.php:1985
+msgid ""
+"Number of items you want to show in one slide. this option is work with LI "
+"tag, it will show all images in one LI tag."
+msgstr ""
+
+#: functions/widgets.php:1995 google-maps/widgets.php:1271
+msgid "Post Type"
+msgstr ""
+
+#: functions/widgets.php:2006 google-maps/google_maps.php:394
+#: google-maps/widgets.php:1286
+msgid "Categories:"
+msgstr ""
+
+#: functions/widgets.php:2008 google-maps/widgets.php:1288
+#: google-maps/widgets.php:1358
+msgid "Select Category"
+msgstr ""
+
+#: functions/widgets.php:2025
+msgid "Shows post as per view counting/comments"
+msgstr ""
+
+#: functions/widgets.php:2030
+msgid "Featured List"
+msgstr ""
+
+#: functions/widgets.php:2035
+msgid "Total views"
+msgstr ""
+
+#: functions/widgets.php:2040
+msgid "Daily views"
+msgstr ""
+
+#: functions/widgets.php:2045
+msgid "Total comments"
+msgstr ""
+
+#: functions/widgets.php:2052
+msgid "Number of posts:"
+msgstr ""
+
+#: functions/widgets.php:2058
+msgid "Excerpt Length:"
+msgstr ""
+
+#: google-maps/direction_map_widget.php:7
+msgid ""
+"Shows a map of the posts location. By entering their address, visitors can "
+"also get directions to the location. Use the widget in detail page sidebar "
+"areas."
+msgstr ""
+
+#: google-maps/direction_map_widget.php:8
+msgid "T &rarr; Detail Page Map"
+msgstr ""
+
+#: google-maps/direction_map_widget.php:64 google-maps/google_maps.php:375
+#: google-maps/google_maps.php:786
+msgid ""
+"Map Height <small>(default height: 425px) to change, only enter a numeric "
+"value.)</small>"
+msgstr ""
+
+#: google-maps/google_map_detail.php:29
+msgid "By car"
+msgstr ""
+
+#: google-maps/google_map_detail.php:30
+msgid "By public transit"
+msgstr ""
+
+#: google-maps/google_map_detail.php:31
+msgid "By Bicycling"
+msgstr ""
+
+#: google-maps/google_map_detail.php:32
+msgid "By Walking"
+msgstr ""
+
+#: google-maps/google_map_detail.php:35
+msgid "Metric"
+msgstr ""
+
+#: google-maps/google_map_detail.php:36
+msgid "Imperial"
+msgstr ""
+
+#: google-maps/google_map_detail.php:39 google-maps/google_map_detail.php:58
+msgid "Enter Location"
+msgstr ""
+
+#: google-maps/google_map_detail.php:41
+msgid "Get Directions"
+msgstr ""
+
+#: google-maps/google_map_detail.php:42
+msgid "View Large Map"
+msgstr ""
+
+#: google-maps/google_map_detail.php:60
+msgid "Please enter your address to get the direction map."
+msgstr ""
+
+#: google-maps/google_map_detail.php:86
+msgid "Directions failed: "
+msgstr ""
+
+#: google-maps/google_map_detail.php:107
+msgid "Unsupported travel mode."
+msgstr ""
+
+#: google-maps/google_map_detail.php:189
+msgid "Street View data not found for this location."
+msgstr ""
+
+#: google-maps/google_map_detail.php:214
+msgid "View Larger Map"
+msgstr ""
+
+#: google-maps/google_maps.php:20 templates/mobile-single-classified.php:234
+#: templates/single-classified.php:175 templates/single-classified.php:241
+#: templates/tevolution-single-classified-preview.php:151
+msgid "Map"
+msgstr ""
+
+#: google-maps/google_maps.php:32 google-maps/google_maps.php:1337
+msgid "Map Settings"
+msgstr ""
+
+#: google-maps/google_maps.php:36
+msgid "Map view"
+msgstr ""
+
+#: google-maps/google_maps.php:40 google-maps/google_maps.php:57
+#: google-maps/google_maps.php:1356 google-maps/google_maps.php:1368
+#: google-maps/google_maps.php:1404
+msgid "Enable"
+msgstr ""
+
+#: google-maps/google_maps.php:42
+msgid ""
+"Enable to show map tab on category pages. Disable to use \"T -> Category "
+"Page Map\" instead."
+msgstr ""
+
+#: google-maps/google_maps.php:53
+msgid "Pinpoint functionality"
+msgstr ""
+
+#: google-maps/google_maps.php:59
+msgid ""
+"Pinpoint button allows you to focus the map on a specific entry. Only work "
+"with \"Show Map view\" above unchecked and the \"T-> Category Page Map\""
+msgstr ""
+
+#: google-maps/google_maps.php:67
+msgid "Pinpoint activation"
+msgstr ""
+
+#: google-maps/google_maps.php:69
+msgid "Mouse hover"
+msgstr ""
+
+#: google-maps/google_maps.php:70
+msgid "Click"
+msgstr ""
+
+#: google-maps/google_maps.php:71
+msgid ""
+"\"Mouse hover\" option will not work if you have \"Show map view in category "
+"pages\" option ( given above ) enabled. "
+msgstr ""
+
+#: google-maps/google_maps.php:97
+msgid "Settings saved"
+msgstr ""
+
+#: google-maps/google_maps.php:140
+msgid "Single city map settings"
+msgstr ""
+
+#: google-maps/google_maps.php:145
+msgid "City name"
+msgstr ""
+
+#: google-maps/google_maps.php:149
+msgid "City latitude"
+msgstr ""
+
+#: google-maps/google_maps.php:150
+msgid "Enter the latitude for the city defined above. Generate the value using"
+msgstr ""
+
+#: google-maps/google_maps.php:150 google-maps/google_maps.php:154
+msgid "this website"
+msgstr ""
+
+#: google-maps/google_maps.php:153
+msgid "City longitude"
+msgstr ""
+
+#: google-maps/google_maps.php:154
+msgid ""
+"Enter the longitude for the city defined above. Generate the value using"
+msgstr ""
+
+#: google-maps/google_maps.php:157
+msgid "Map type"
+msgstr ""
+
+#: google-maps/google_maps.php:160
+msgid "Road Map"
+msgstr ""
+
+#: google-maps/google_maps.php:162
+msgid "Terrain Map"
+msgstr ""
+
+#: google-maps/google_maps.php:164
+msgid "Satellite Map"
+msgstr ""
+
+#: google-maps/google_maps.php:166
+msgid "Hybrid  Map"
+msgstr ""
+
+#: google-maps/google_maps.php:168
+msgid ""
+"The selection made here will affect your homepage and category page map."
+msgstr ""
+
+#: google-maps/google_maps.php:173
+msgid "Map display"
+msgstr ""
+
+#: google-maps/google_maps.php:176
+msgid "According to Map Scaling factor"
+msgstr ""
+
+#: google-maps/google_maps.php:177
+msgid "Fit all available listings"
+msgstr ""
+
+#: google-maps/google_maps.php:178
+msgid ""
+"If \"Fit all available listings\" is selected the map scaling factor set "
+"above is ignored. The zoom factor will be set automatically so that all "
+"listings fit the screen."
+msgstr ""
+
+#: google-maps/google_maps.php:190
+msgid "Map scaling factor"
+msgstr ""
+
+#: google-maps/google_maps.php:200
+msgid ""
+"Set to zoom level for the map. The higher the number, the larger the zoom. "
+"To show a city area set the factor to around 13."
+msgstr ""
+
+#: google-maps/google_maps.php:224
+msgid ""
+"Use it while operating a single city. Edit the map location in Tevolution "
+"&raquo; map settings. Widget works best inside the Homepage Slider or "
+"Homepage - Main Content area."
+msgstr ""
+
+#: google-maps/google_maps.php:225
+msgid "T &rarr; Homepage Map - single city"
+msgstr ""
+
+#: google-maps/google_maps.php:275
+msgid "No Records Found"
+msgstr ""
+
+#: google-maps/google_maps.php:277
+msgid ""
+"Sorry, no records were found. Please adjust your search criteria and try "
+"again."
+msgstr ""
+
+#: google-maps/google_maps.php:284
+msgid "Title or Keyword"
+msgstr ""
+
+#: google-maps/google_maps.php:380 google-maps/widgets.php:153
+msgid "Select Post:"
+msgstr ""
+
+#: google-maps/google_maps.php:432 google-maps/google_maps.php:794
+msgid "Disable Clustering"
+msgstr ""
+
+#: google-maps/google_maps.php:486
+msgid ""
+"Show a map on category pages while operating a single city. Use in category "
+"page sidebar and category page - below header areas."
+msgstr ""
+
+#: google-maps/google_maps.php:487
+msgid "T &rarr; Category Page Map - single city"
+msgstr ""
+
+#: google-maps/google_maps.php:798
+msgid "Show all posts on category map"
+msgstr ""
+
+#: google-maps/google_maps.php:799
+msgid ""
+"With large categories this can significantly increase category page load "
+"time. When this option is disabled, the map will only show posts from the "
+"current page."
+msgstr ""
+
+#: google-maps/google_maps.php:1116
+msgid "Select All"
+msgstr ""
+
+#: google-maps/google_maps.php:1225
+#, php-format
+msgid "There is no categories in %s"
+msgstr ""
+
+#: google-maps/google_maps.php:1246
+msgid "Please select any post type."
+msgstr ""
+
+#: google-maps/google_maps.php:1352
+msgid "Hide maps on mobile devices"
+msgstr ""
+
+#: google-maps/google_maps.php:1358
+msgid ""
+"With this option enabled, maps won&rsquo;t be shown on mobile phones and "
+"tablets."
+msgstr ""
+
+#: google-maps/google_maps.php:1364
+msgid "Show map in full width"
+msgstr ""
+
+#: google-maps/google_maps.php:1370
+msgid ""
+"Along with the homepage map, this setting will stretch any widget placed "
+"inside the 'Homepage Slider' and 'Category Page - Below Header' widget areas "
+"to full page width.  "
+msgstr ""
+
+#: google-maps/google_maps.php:1380
+msgid "Save All Settings"
+msgstr ""
+
+#: google-maps/google_maps.php:1400
+msgid "Show 'Map' tab"
+msgstr ""
+
+#: google-maps/google_maps.php:1406
+msgid ""
+"Enable to show the 'Map' tab (where available) above listing description. "
+"Disable to use the 'T > Detail Page Map' widget in the sidebar area instead."
+msgstr ""
+
+#: google-maps/widgets.php:26
+msgid ""
+"Display posts that are in the vicinity of the post that is currently "
+"displayed. Use in detail page sidebar areas."
+msgstr ""
+
+#: google-maps/widgets.php:27
+msgid "T &rarr; In The Neighborhood"
+msgstr ""
+
+#: google-maps/widgets.php:35 google-maps/widgets.php:129
+msgid "Nearest Listing"
+msgstr ""
+
+#: google-maps/widgets.php:112
+msgid "Sorry! There are no nearby results found"
+msgstr ""
+
+#: google-maps/widgets.php:166 google-maps/widgets.php:1249
+msgid "Number of posts"
+msgstr ""
+
+#: google-maps/widgets.php:171
+msgid "Select Distance"
+msgstr ""
+
+#: google-maps/widgets.php:177
+msgid "1"
+msgstr ""
+
+#: google-maps/widgets.php:182
+msgid "5"
+msgstr ""
+
+#: google-maps/widgets.php:187
+msgid "10"
+msgstr ""
+
+#: google-maps/widgets.php:192
+msgid "100"
+msgstr ""
+
+#: google-maps/widgets.php:197
+msgid "1000"
+msgstr ""
+
+#: google-maps/widgets.php:202
+msgid "5000"
+msgstr ""
+
+#: google-maps/widgets.php:207
+msgid "Display By"
+msgstr ""
+
+#: google-maps/widgets.php:213 google-maps/widgets.php:731
+msgid "Kilometers"
+msgstr ""
+
+#: google-maps/widgets.php:218 google-maps/widgets.php:726
+msgid "Miles"
+msgstr ""
+
+#: google-maps/widgets.php:253
+msgid ""
+"Shows a list of all categories and their sub-categories. Works best in main "
+"content and subsidiary areas."
+msgstr ""
+
+#: google-maps/widgets.php:254
+msgid "T &rarr; All Categories List"
+msgstr ""
+
+#: google-maps/widgets.php:404 google-maps/widgets.php:441
+msgid "View all &raquo;"
+msgstr ""
+
+#: google-maps/widgets.php:454
+msgid "Invalid Category."
+msgstr ""
+
+#: google-maps/widgets.php:486
+msgid "Post Type:"
+msgstr ""
+
+#: google-maps/widgets.php:498
+msgid "Category Level"
+msgstr ""
+
+#: google-maps/widgets.php:510
+msgid "Number of child categories"
+msgstr ""
+
+#: google-maps/widgets.php:522
+msgid "Hide empty categories"
+msgstr ""
+
+#: google-maps/widgets.php:538
+msgid ""
+"Search through nearby posts by setting a range. Use in category page sidebar "
+"areas."
+msgstr ""
+
+#: google-maps/widgets.php:539
+msgid "T &rarr; Search by Miles Range"
+msgstr ""
+
+#: google-maps/widgets.php:552
+#, php-format
+msgid "Find a %s"
+msgstr ""
+
+#: google-maps/widgets.php:576
+msgid "Enter your address"
+msgstr ""
+
+#: google-maps/widgets.php:579
+msgid "Mile range:"
+msgstr ""
+
+#: google-maps/widgets.php:583
+msgid "Kilometer range:"
+msgstr ""
+
+#: google-maps/widgets.php:720
+msgid "Search By"
+msgstr ""
+
+#: google-maps/widgets.php:736
+msgid "Max Range"
+msgstr ""
+
+#: google-maps/widgets.php:866
+msgid ""
+"Showcase posts from any post type, including those created by you. Featured "
+"posts are displayed at the top. Works best in the Homepage - Main Content "
+"area."
+msgstr ""
+
+#: google-maps/widgets.php:867
+msgid "T &rarr; Homepage Display Posts"
+msgstr ""
+
+#: google-maps/widgets.php:882
+msgid "Read more"
+msgstr ""
+
+#: google-maps/widgets.php:1212
+msgid "Featured Listing"
+msgstr ""
+
+#: google-maps/widgets.php:1212
+msgid "View All"
+msgstr ""
+
+#: google-maps/widgets.php:1239
+msgid "View All Text"
+msgstr ""
+
+#: google-maps/widgets.php:1244
+msgid "View All Link URL: (ex.http://templatic.com/events)"
+msgstr ""
+
+#: google-maps/widgets.php:1254
+msgid "View"
+msgstr ""
+
+#: google-maps/widgets.php:1260
+msgid "List view"
+msgstr ""
+
+#: google-maps/widgets.php:1265
+msgid "Grid view"
+msgstr ""
+
+#: google-maps/widgets.php:1282
+msgid "Limit content to"
+msgstr ""
+
+#: google-maps/widgets.php:1284
+msgid "words"
+msgstr ""
+
+#: google-maps/widgets.php:1305
+msgid "Sorting Options"
+msgstr ""
+
+#: google-maps/widgets.php:1308
+msgid "Alphabetical"
+msgstr ""
+
+#: google-maps/widgets.php:1308
+msgid "Random"
+msgstr ""
+
+#: google-maps/widgets.php:1308
+msgid "Published Date"
+msgstr ""
+
+#: google-maps/widgets.php:1308
+msgid "Higher Paid First"
+msgstr ""
+
+#: google-maps/widgets.php:1308
+msgid "Only Featured"
+msgstr ""
+
+#: google-maps/widgets.php:1308
+msgid "Featured First"
+msgstr ""
+
+#: templates/classified-listing-search-form.php:3
+msgid "Search for"
+msgstr ""
+
+#: templates/classified-listing-search-form.php:6
+msgid "Search"
+msgstr ""
+
+#: templates/classified-search.php:59
+msgid "Search Results"
+msgstr ""
+
+#: templates/classified-search.php:151
+#, php-format
+msgid ""
+"Sorry! No results were found in %s properties for the requested search or "
+"its may be in %s properties. Try searching with some different keywords"
+msgstr ""
+
+#: templates/mobile-single-classified.php:90
+msgid "Call"
+msgstr ""
+
+#: templates/mobile-single-classified.php:202
+#: templates/single-classified.php:168 templates/single-classified.php:191
+#: templates/tevolution-single-classified-preview.php:144
+msgid "Info"
+msgstr ""
+
+#: templates/single-classified.php:171 templates/single-classified.php:227
+#: templates/tevolution-single-classified-preview.php:147
+msgid "Video"
+msgstr ""
+
+#: templatic_login.php:4
+msgid "Tevolution Classified Update"
+msgstr ""
+
+#: templatic_login.php:36
+msgid ""
+"Invalid UserName or password. are you using templatic member username and "
+"password?"
+msgstr ""
+
+#: templatic_login.php:60
+msgid ""
+"Oops, we have a problem. The information you provided is either incorrect or "
+"you don't have Tevolution - Classifieds available inside the account. If you "
+"think everything should be ok with your account, please"
+msgstr ""
+
+#: templatic_login.php:60
+msgid "contact us."
+msgstr ""
+
+#: templatic_login.php:65
+msgid ""
+"Invalid UserName or password. Please enter templatic member's username and "
+"password."
+msgstr ""
+
+#: templatic_login.php:85
+msgid ""
+"Enter your Templatic account credentials to proceed with the update. These "
+"are the same details you use for the member area."
+msgstr ""
+
+#: templatic_login.php:89
+msgid "Username: "
+msgstr ""
+
+#: templatic_login.php:93
+msgid "Password: "
+msgstr ""
+
+#: templatic_login.php:98
+msgid "Cancel"
+msgstr ""
+
+#: templatic_login.php:107
+msgid "Update Now"
+msgstr ""
+
+#: wp-updates-plugin.php:43
+msgid "There is a new version of Tevolution-Classifieds plugin available "
+msgstr ""
+
+#: wp-updates-plugin.php:48
+msgid "Templatic Classifieds Update"
+msgstr ""
+
+#: wp-updates-plugin.php:48
+msgid "update now"
+msgstr ""
+
+#: wp-updates-plugin.php:86
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: wp-updates-plugin.php:86
+msgid "Try again"
+msgstr ""
+
+#: wp-updates-plugin.php:91
+msgid "An unknown error occurred"
+msgstr ""
